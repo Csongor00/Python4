@@ -1,0 +1,8 @@
+szuletesi = input("Mi a szuletesi eved"'\n')
+print('Az en szuletesi evem',szuletesi,'\n')
+csillagjegy = input("Mi a csillagjegyed"'\n')
+print('Az en csillag jegyem',csillagjegy,'\n')
+vezetek = input("Mi a vezetek neved"'\n')
+print('Az en vezetek nevem',vezetek,'\n')
+kereszt = input("Mi a kereszt neved"'\n')
+print("Az en kereszt nevem" ,kereszt,)
